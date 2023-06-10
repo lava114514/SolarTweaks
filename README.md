@@ -2,9 +2,9 @@
 
 # Solar Tweaks
 
-![GitHub](https://img.shields.io/github/license/Solar-Tweaks/Solar-Tweaks?style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/Solar-Tweaks/Solar-Tweaks/total?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/version/Solar-Tweaks/Solar-Tweaks?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/lava114514/SolarTweaks?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/lava114514/SolarTweaks/total?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/version/lava114514/SolarTweaks?style=for-the-badge)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
 
 Solar Tweaks is a tweaking tool for Lunar Client, offering a wide range of modifications, including the ability to use mods which are unavailable by default. We are dedicated to providing our users with the most up-to-date patches and updates, and we are proud to have a large user base of over 200,000 individuals who have downloaded and used our tool.
