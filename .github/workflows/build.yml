@@ -32,4 +32,4 @@ jobs:
       - run: npm install
       - run: npm run build
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: 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
