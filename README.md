@@ -13,7 +13,7 @@ Please note that the use of Solar Tweaks is at your own risk. Any changes done t
 
 # Installing
 
-You can download the latest version of Solar Tweaks from the [Releases](https://github.com/Solar-Tweaks/Solar-Tweaks/releases) page. You need to download the version corresponding to your operating system (OS). You are able to find a more in depth explanation on how to download [here](https://github.com/Solar-Tweaks/Solar-Tweaks/wiki/Download-Solar-Tweaks).
+You can download the latest version of Solar Tweaks from the [Releases](https://github.com/lava114514/SolarTweaks/releases) page. You need to download the version corresponding to your operating system (OS). You are able to find a more in depth explanation on how to download [here](https://github.com/Solar-Tweaks/Solar-Tweaks/wiki/Download-Solar-Tweaks).
 
 # Usage
 
@@ -27,7 +27,7 @@ Customize and personalize your Lunar Client experience by navigating to the **"E
 
 Solar Tweaks is fully open-source, allowing for users to obtain the source code and make their own modifications. To do so, the repository can be cloned using the command:
 ```bash
-$ git clone https://github.com/Solar-Tweaks/Solar-Tweaks.git
+$ git clone https://github.com/lava114514/SolarTweaks.git
 ```
 Once the repository is downloaded, navigate to the directory and install the necessary dependencies using the commands:
 ```bash
