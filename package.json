@@ -15,7 +15,6 @@
     "url": "https://github.com/lava114514/SolarTweaks.git"
   },
   "scripts": {
-    "release": "electron-builder"
     "lint": "vue-cli-service lint",
     "build": "vue-cli-service electron:build",
     "serve": "vue-cli-service electron:serve",
