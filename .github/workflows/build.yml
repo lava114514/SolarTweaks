@@ -30,7 +30,12 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
       - run: npm install
-      - run: npm run build
+      - run: mkdir output
+      - run: npm run build -dest=../output
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - uses: actions/checkout@v2
+          
+      - uses: actions/upload-artifact@v2
+        with:
+          name: upload
+          path: ${{ github.workspace }}/output
