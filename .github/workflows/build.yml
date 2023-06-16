@@ -33,5 +33,4 @@ jobs:
       - run: npm run build
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          release: true
-          publish: always
+      - uses: actions/checkout@v2
