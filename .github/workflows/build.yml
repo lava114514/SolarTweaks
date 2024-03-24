@@ -34,7 +34,7 @@ jobs:
       - run: npm run build -dest=../output
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          
+      - run: tree
       - uses: actions/upload-artifact@v3
         with:
           name: upload
